@@ -1,0 +1,8 @@
+<test>
+	<firstname>Evgenii</firstname>
+	<lastname>Lavrishev</lastname>
+	<patronymic>Andreevich</patronymic>
+	<pet>cat</pet>
+	<amountpet>1</amountpet>
+	<salary>50-75</salary>
+<test>
