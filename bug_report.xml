@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <bugreport>
   <title>Product 18+ is not added to the cart</title>
   <description>Items from the 18+ section will not be added by an authorized user over the age of 18</description>
